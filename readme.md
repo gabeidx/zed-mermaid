@@ -2,9 +2,8 @@
 
 An extension that adds Mermaid support for Zed.
 
-## Features
-- Syntax highlighting for `.mermaid`, `.mmd` files.
+Learn more about Mermaid at <https://mermaid.js.org>
 
-### To-do
-- [ ] Syntax highlighting for `mermaid` code blocks in markdown files.
-- [ ] Diagram preview
+## Acknowledgments
+
+- Tree-sitter grammar by monaqa: [tree-sitter-mermaid](https://github.com/monaqa/tree-sitter-mermaid)
