@@ -1,0 +1,7 @@
+id = "mermaid"
+name = "Mermaid"
+version = "0.0.1"
+schema_version = 1
+authors = ["Gabriel Silva <gabe@gabe.id>"]
+description = "Mermaid diagrams support."
+repository = "https://github.com/gabeidx/zed-mermaid"
