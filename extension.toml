@@ -3,5 +3,9 @@ name = "Mermaid"
 version = "0.0.1"
 schema_version = 1
 authors = ["Gabriel Silva <gabe@gabe.id>"]
-description = "Mermaid diagrams support."
+description = "Mermaid support."
 repository = "https://github.com/gabeidx/zed-mermaid"
+
+[grammars.mermaid]
+repository = "https://github.com/monaqa/tree-sitter-mermaid"
+commit = "90ae195b31933ceb9d079abfa8a3ad0a36fee4cc"
